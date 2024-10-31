@@ -17,7 +17,7 @@ Video do Circuito funcionando:
 
 
 
-Tabela especificações:
+Tabela componentes:
 | Quantidade | Componente |
 |----------|----------|
 | 7 | Jumpers|
@@ -28,7 +28,7 @@ Tabela especificações:
 |1| Servo Motor|
 
 
-Avaliação que meu colega me deu:
+### Avaliação que meu colega me deu:
 #### Avaliador: Gabriel Santos do Nascimento
 |Critério| Avaliação    |Observações do Avaliador|
 |-|-|-|
@@ -39,7 +39,8 @@ Avaliação que meu colega me deu:
 | |  |Pontuação Total: 10|
 
 
-Avaliação que eu dei ao meu colega:
+### Avaliação que eu dei ao meu colega:
+
 #### Avaliador: Miguel da Silva Claret
 
 |Critério| Avaliação	|Observações do Avaliador|
